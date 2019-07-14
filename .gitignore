@@ -104,8 +104,9 @@ venv.bak/
 .mypy_cache/
 
 # temp
-temp/
+temp/*
 
 # video
 *.mp4
 *.avi
+Pr/
